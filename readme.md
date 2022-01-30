@@ -1,5 +1,5 @@
 ## Install Dependencies:
-### pytorch
-### Transformers
-### Anvil
+### pytorch : pip install torch
+### Transformers :pip install transfromers
+### Anvil : pip  install anvil
 
